@@ -3188,7 +3188,7 @@ local footer_body_ad_slot = [[
 
 local ddos_credits = [[
 <div class="credits" style="text-align:center;font-size:100%;">
-<a href="//facebook.com/C0nw0nk" target="_blank">DDoS protection by &copy; Conor McKnight</a>
+<a href="https://jesus.fish" target="_blank">DDoS protection by &copy; SnivyCDN</a>
 </div>
 ]]
 
