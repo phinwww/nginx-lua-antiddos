@@ -7,6 +7,10 @@
 # Nginx-Lua-Anti-DDoS
 A Anti-DDoS script to protect Nginx web servers using Lua with a Javascript based authentication puzzle inspired by Cloudflare I am under attack mode I built my own Anti-DDoS authentication HTML page puzzle intergrating my Lua, Javascript, HTML and HTTP knowledge.
 
+## added notes
+
+nginx-lua-antiddos is a script for openresty/nginx for preventing ddos attacks.
+
 Mitigate a DDoS attack of any size using my free DDoS protection. Don't get ddos attacked!
 
 If you're under attack and use my script during the attack, visitors will receive an interstitial page for about five seconds while I analyze the traffic to make sure it is a legitimate human visitor.
