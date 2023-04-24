@@ -3149,7 +3149,7 @@ local javascript_anti_ddos = [[
 })();
 ]]
 
---TODO: include Captcha like Google ReCaptcha
+--TODO: include captcha system (hcaptcha or local)
 
 --[[
 encrypt/obfuscate the javascript output
