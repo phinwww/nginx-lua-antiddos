@@ -256,7 +256,7 @@ local cookie_tor_value_block = "deny" --the value of the cookie when we block ac
 
 --[[
 TODO:
-Google ReCaptcha
+hCaptcha cookie values (im not adding recaptcha)
 ]]
 
 --[[
